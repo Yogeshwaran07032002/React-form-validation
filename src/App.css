@@ -1,0 +1,120 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+.error {
+  color: red;
+  font-size: 12px;
+  font-weight: 400;
+}
+.fo{
+  width: 50%;
+  height: 600px;
+  border-style: solid;
+  background-image: url(y2.jpg);
+  /* border-color: red; */
+  /* background-color: azure; */
+  margin-left: 25%;
+  background-repeat: no-repeat;
+ background-size: cover;
+ 
+  
+}
+
+.div1{
+  width: 100%;
+  height: 60px;
+  /* border-style: solid;
+  border-color: #61dafb; */
+  margin-top: 60px;
+  font-weight: 700;
+}
+.n1
+{
+  /* width: 60%;
+  height: 60px; */
+ /* border-style: solid;
+ border-color: blue; */
+ margin-left: 10px;
+ text-align: center;
+}
+.div2{
+  width: 90%;
+  height: 60px;
+  margin-left: 6.3%;
+  font-weight: 700;
+}
+.div3
+{width: 90%;
+  height: 60px;
+  margin-left: 4.7%;
+  font-weight: 700;
+;}
+.div4
+{
+  width: 90%;
+  height: 60px;
+  font-weight: 700;
+  margin-left: 4;
+  
+}
+.div5{
+  width: 80%;
+  height: 60px;
+  margin-left:5.9%;
+  font-weight: 700;
+}
+.div6
+{
+  width: 100%;
+  height: 60px;
+  font-weight: 700;
+}
+.div7{
+  width: 100%;
+  height: 60px;
+  font-weight: 700;
+}
+.div8
+{
+  width: 100%;
+  height: 60px;
+  font-weight: 400;
+}
